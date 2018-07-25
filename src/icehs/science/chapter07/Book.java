@@ -22,7 +22,7 @@ public class Book {
 	 
 	 Book(String title, String author){
 		 this.title = title;
-		 this.author = author;
+		 this.author = author; 
 		
 	 }
 	 	 
